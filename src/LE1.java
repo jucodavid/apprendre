@@ -6,6 +6,8 @@ public class LE1 {
 System.out.print("\t\tHello Wolrd !\n");
 System.out.println("My name is");
 System.out.println("\n\t\"Slim Shady\".");
+	
+	
 	}
 
 }
